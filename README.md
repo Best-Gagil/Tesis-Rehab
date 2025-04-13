@@ -40,7 +40,7 @@ Las contribuciones son bienvenidas. Si deseas colaborar en el proyecto, por favo
 - [Guillermo Andrés Aguilera Hurtado](https://github.com/tu-usuario3)
 
 **Director**: [Iván Mondragón Bernal, PhD.](https://github.com/tu-usuario4)  
-**Co-Director**: [Julian Colorado Montaño, PhD.](https://github.com/tu-usuario5)
+**Co-Director**: [Julian Colorado Montaño, PhD.](https://github.com/tu-usuario5) <br>
 **Asesor**: [Wilson () ](https://github.com/tu-usuario6 )
 
 ## Licencia
