@@ -1,4 +1,4 @@
-# Diseño de Interfaz y Juego de Rehabilitación en Realidad Mixta para un Exoesqueleto Robótico
+## Diseño de Interfaz y Juego de Rehabilitación en Realidad Mixta para un Exoesqueleto Robótico
 
 ## Descripción
 
@@ -33,7 +33,7 @@ Este repositorio está destinado a investigadores, desarrolladores y profesional
 
 Las contribuciones son bienvenidas. Si deseas colaborar en el proyecto, por favor abre un **issue** o envía un **pull request**.
 
-## Miembros de la Tesis
+## Miembros del proyecto
 
 - [David Esteban González Rozo](https://github.com/tu-usuario1) <!-- CAMBIAR POR ENLACES CORRECTOS -->
 - [Jerónimo Rueda Giraldo](https://github.com/tu-usuario2)
@@ -41,7 +41,7 @@ Las contribuciones son bienvenidas. Si deseas colaborar en el proyecto, por favo
 
 **Director**: [Iván Mondragón Bernal, PhD.](https://github.com/tu-usuario4)  
 **Co-Director**: [Julian Colorado Montaño, PhD.](https://github.com/tu-usuario5)
-**Asesor**: [Wilson () ](enlace)
+**Asesor**: [Wilson () ](https://github.com/tu-usuario6 )
 
 ## Licencia
 
