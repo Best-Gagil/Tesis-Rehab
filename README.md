@@ -41,7 +41,7 @@ Las contribuciones son bienvenidas. Si deseas colaborar en el proyecto, por favo
 
 **Director**: [Iván Mondragón Bernal, PhD.](https://github.com/tu-usuario4)  
 **Co-Director**: [Julian Colorado Montaño, PhD.](https://github.com/tu-usuario5) <br>
-**Asesor**: [Wilson () ](https://github.com/tu-usuario6 )
+**Asesor**: [Wilson Alonso Hernandez Martinez ](https://github.com/tu-usuario6 )
 
 ## Licencia
 
