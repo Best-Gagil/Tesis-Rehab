@@ -6,3 +6,6 @@ ImplementationCode/Exo_Detection/yolo-exo-detection/ExoDetection.zip.003 filter=
 ImplementationCode/BLE/BLE[[:space:]]-[[:space:]]bidireccional[[:space:]]VerFinal.zip.001 filter=lfs diff=lfs merge=lfs -text
 ImplementationCode/IntegratedSytem/SistemaMR_777.apk filter=lfs diff=lfs merge=lfs -text
 ImplementationVidsandImages/Files.7z filter=lfs diff=lfs merge=lfs -text
+ValidationTestsWithUsers/VidsandImages.zip.001 filter=lfs diff=lfs merge=lfs -text
+ValidationTestsWithUsers/VidsandImages.zip.002 filter=lfs diff=lfs merge=lfs -text
+ValidationTestsWithUsers/VidsandImages.zip.003 filter=lfs diff=lfs merge=lfs -text
