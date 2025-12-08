@@ -27,6 +27,13 @@ This repository includes:
 - Resources for the design and evaluation of the rehabilitation game.
 - Images of the implementation and the tests with users.
 
+### User Interaction Example
+
+Below are images showing the system in use:
+
+#### User wearing the MR headset  
+![User wearing MR headset](Assets/Images/UsuarioGafas.jpg)
+
 ## Usage
 
 This repository is intended for researchers, developers, and rehabilitation professionals interested in integrating advanced technologies into post-stroke recovery processes. The system aims to improve the effectiveness of rehabilitation therapies and expand access to innovative treatment options.
@@ -44,4 +51,10 @@ Contributions are welcome. If you would like to collaborate, please open an **is
 **Advisor**: [Iván Mondragón Bernal, PhD.](https://github.com/tu-usuario4)  
 **Co-Advisor**: [Julian Colorado Montaño, PhD.](https://github.com/tu-usuario5)  
 **Consultant**: [Wilson Alonso Hernandez Martinez](https://github.com/tu-usuario6)
+
+## License
+
+This project is licensed under the **[Name of the License]**.  
+See the LICENSE file for more details.
+
 
