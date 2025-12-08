@@ -31,8 +31,9 @@ This repository includes:
 
 Below are images showing the system in use:
 
-#### User wearing the MR headset  
-![User wearing MR headset](UsuarioGafas.jpg)
+#### User wearing the MR headset
+<img src="UsuarioGafas.jpg" width="350">
+
 
 ## Usage
 
