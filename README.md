@@ -32,7 +32,7 @@ This repository includes:
 Below are images showing the system in use:
 
 #### User wearing the MR headset  
-![User wearing MR headset](Assets/Images/UsuarioGafas.jpg)
+![User wearing MR headset](UsuarioGafas.jpg)
 
 ## Usage
 
@@ -52,9 +52,5 @@ Contributions are welcome. If you would like to collaborate, please open an **is
 **Co-Advisor**: [Julian Colorado Montaño, PhD.](https://github.com/tu-usuario5)  
 **Consultant**: [Wilson Alonso Hernandez Martinez](https://github.com/tu-usuario6)
 
-## License
-
-This project is licensed under the **[Name of the License]**.  
-See the LICENSE file for more details.
 
 
